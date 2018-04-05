@@ -16,6 +16,6 @@ or may not be used. This license dictates that:
 4. All services using this software must comply with their respective privacy policies.
 5. The privacy policy or policies of any service utilizing this software must include
    all data tracked, monitored, stored, or cached in any way by that service.
-6. Any product or service utilizing this software in any form can not deny access to any person
+6. Any product or service utilizing this software in any form cannot deny access to any person
    based on gender, age, ethnicity, background, sexual orientation, religion, or criminal
    record.
